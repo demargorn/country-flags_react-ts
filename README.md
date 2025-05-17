@@ -42,6 +42,7 @@
 -  React 19.1
 -  React Router 7.6
 -  React Redux 9.2 + Redux-Toolkit 2.8
+-  REST Countries API
 
 ## Наслаждайтесь изучением стран! 🌎✨
 
